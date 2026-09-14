@@ -79,6 +79,7 @@ export default function RootLayout({
       className={`${inter.variable} ${spaceGrotesk.variable} ${jetbrainsMono.variable} scroll-smooth antialiased`}
     >
       <head>
+        <meta name="google-site-verification" content="xkGCPzwgr5c47KNKp6zv8MBPKULLSBPMa_WkhNH4bwM" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(personSchema) }}
